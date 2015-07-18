@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://soid.github.io/sitemap.xml 

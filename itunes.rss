@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title><![CDATA[Dolce Welle]]></title>
+    <link>http://soid.github.io</link>
+    <language>en-us</language>
+    <copyright><![CDATA[Alex]]></copyright>
+    <itunes:author><![CDATA[Alex]]></itunes:author>
+    <itunes:subtitle><![CDATA[Подкаст из Европы]]></itunes:subtitle>
+    <description><![CDATA[]]></description>
+    <itunes:explicit>no</itunes:explicit>
+ 
+    <itunes:owner>
+      <itunes:name>Alex</itunes:name>
+      <itunes:email>dolcewelle@googlemail.com</itunes:email>
+    </itunes:owner>
+ 
+    <itunes:image href="http://www.dolcewelle.com/pic/dwnew.jpg" />
+    <itunes:category text="Technology">
+      <itunes:category text="Gadgets"/>
+    </itunes:category>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals"/>
+      <itunes:category text="Places &amp; Travel"/>
+    </itunes:category>
+ 
+    
+    <item>
+      <title><![CDATA[Live from e-car Renault Twizy]]></title>
+      <description><![CDATA[<p><img src="http://soid.github.io/images/blog/twizy.jpg"></p>
+]]></description>
+      <link>http://soid.github.io/blog/2015/06/22/live-from-e-car-renault-twizy/</link>
+      <guid>http://soid.github.io/blog/2015/06/22/live-from-e-car-renault-twizy/</guid>
+      <pubDate>Mon, 22 Jun 2015 21:51:35 -0700</pubDate>
+      <itunes:author><![CDATA[Alex]]></itunes:author>
+      <itunes:summary><![CDATA[Live из электромобиля Renault Twizy, MacBook & бамбук]]></itunes:summary>
+      <enclosure url="http://dev.insuma.de/~alex/podcasts/dolcewelle/ab_20150622.mp3" type="audio/mp3" length="28107416" />
+    </item>
+    
+    <item>
+      <title><![CDATA[E-Mails from Tchaikovsky]]></title>
+      <description><![CDATA[<p><img src="http://soid.github.io/images/blog/tchaikovsky.jpg"></p>
+]]></description>
+      <link>http://soid.github.io/blog/2015/05/30/e-mails-from-tchaikovsky/</link>
+      <guid>http://soid.github.io/blog/2015/05/30/e-mails-from-tchaikovsky/</guid>
+      <pubDate>Sat, 30 May 2015 22:04:05 -0700</pubDate>
+      <itunes:author><![CDATA[Alex]]></itunes:author>
+      <itunes:summary><![CDATA[Е-мэйлы от Чайковского, яхта в аренду, OpenVZ, Podsafe music in this show: "Love" by Pilotdrift and others.]]></itunes:summary>
+      <enclosure url="http://dev.insuma.de/~alex/podcasts/dolcewelle/ab_20150530.mp3" type="audio/mp3" length="27525926" />
+    </item>
+    
+    <item>
+      <title><![CDATA[Transalpine train]]></title>
+      <description><![CDATA[<p><img src="http://soid.github.io/images/blog/duomo.jpg"></p>
+]]></description>
+      <link>http://soid.github.io/blog/2015/05/03/transalpine-train/</link>
+      <guid>http://soid.github.io/blog/2015/05/03/transalpine-train/</guid>
+      <pubDate>Sun, 03 May 2015 22:05:52 -0700</pubDate>
+      <itunes:author><![CDATA[Alex]]></itunes:author>
+      <itunes:summary><![CDATA[Пальмы в Европе, между iOS и Android, Podsafe music in this show: Love by Pilotdrift and others]]></itunes:summary>
+      <enclosure url="http://dev.insuma.de/~alex/podcasts/dolcewelle/ab_20150503.mp3" type="audio/mp3" length="16486789" />
+    </item>
+    
+ 
+  </channel>
+</rss>

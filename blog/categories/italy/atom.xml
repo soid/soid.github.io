@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Italy | Dolce Welle]]></title>
+  <link href="http://soid.github.io/blog/categories/italy/atom.xml" rel="self"/>
+  <link href="http://soid.github.io/"/>
+  <updated>2015-07-18T00:26:24-07:00</updated>
+  <id>http://soid.github.io/</id>
+  <author>
+    <name><![CDATA[Alex]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[E-Mails From Tchaikovsky]]></title>
+    <link href="http://soid.github.io/blog/2015/05/30/e-mails-from-tchaikovsky/"/>
+    <updated>2015-05-30T22:04:05-07:00</updated>
+    <id>http://soid.github.io/blog/2015/05/30/e-mails-from-tchaikovsky</id>
+    <content type="html"><![CDATA[<p><img src="/images/blog/tchaikovsky.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Transalpine Train]]></title>
+    <link href="http://soid.github.io/blog/2015/05/03/transalpine-train/"/>
+    <updated>2015-05-03T22:05:52-07:00</updated>
+    <id>http://soid.github.io/blog/2015/05/03/transalpine-train</id>
+    <content type="html"><![CDATA[<p><img src="/images/blog/duomo.jpg"></p>
+]]></content>
+  </entry>
+  
+</feed>
