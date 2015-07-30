@@ -4,7 +4,7 @@
   <title><![CDATA[Dolce Welle]]></title>
   <link href="http://soid.github.io/atom.xml" rel="self"/>
   <link href="http://soid.github.io/"/>
-  <updated>2015-07-18T00:26:24-07:00</updated>
+  <updated>2015-07-30T01:12:22-07:00</updated>
   <id>http://soid.github.io/</id>
   <author>
     <name><![CDATA[Alex]]></name>
@@ -14,29 +14,182 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Live From E-car Renault Twizy]]></title>
-    <link href="http://soid.github.io/blog/2015/06/22/live-from-e-car-renault-twizy/"/>
-    <updated>2015-06-22T21:51:35-07:00</updated>
-    <id>http://soid.github.io/blog/2015/06/22/live-from-e-car-renault-twizy</id>
-    <content type="html"><![CDATA[<p><img src="http://soid.github.io/images/blog/twizy.jpg"></p>
+    <title type="html"><![CDATA[Рыбаки, паром на Корсику, внутри Google Zurich]]></title>
+    <link href="http://soid.github.io/blog/2015/07/24/112/"/>
+    <updated>2015-07-24T12:45:00-07:00</updated>
+    <id>http://soid.github.io/blog/2015/07/24/112</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/pic/googlezue.jpg"></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[E-Mails From Tchaikovsky]]></title>
-    <link href="http://soid.github.io/blog/2015/05/30/e-mails-from-tchaikovsky/"/>
-    <updated>2015-05-30T22:04:05-07:00</updated>
-    <id>http://soid.github.io/blog/2015/05/30/e-mails-from-tchaikovsky</id>
-    <content type="html"><![CDATA[<p><img src="http://soid.github.io/images/blog/tchaikovsky.jpg"></p>
+    <title type="html"><![CDATA[Live из электромобиля Renault Twizy, MacBook & бамбук]]></title>
+    <link href="http://soid.github.io/blog/2015/06/22/111/"/>
+    <updated>2015-06-22T06:45:00-07:00</updated>
+    <id>http://soid.github.io/blog/2015/06/22/111</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/pic/twizy.jpg"></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Transalpine Train]]></title>
-    <link href="http://soid.github.io/blog/2015/05/03/transalpine-train/"/>
-    <updated>2015-05-03T22:05:52-07:00</updated>
-    <id>http://soid.github.io/blog/2015/05/03/transalpine-train</id>
-    <content type="html"><![CDATA[<p><img src="http://soid.github.io/images/blog/duomo.jpg"></p>
+    <title type="html"><![CDATA[Емэйлы от Чайковского, яхта в аренду, OpenVZ]]></title>
+    <link href="http://soid.github.io/blog/2015/05/30/110/"/>
+    <updated>2015-05-30T14:01:00-07:00</updated>
+    <id>http://soid.github.io/blog/2015/05/30/110</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/pic/tchaikovsky.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Трансальпийский экспресс, из Милана, свобода покастерам]]></title>
+    <link href="http://soid.github.io/blog/2015/05/03/109/"/>
+    <updated>2015-05-03T11:48:00-07:00</updated>
+    <id>http://soid.github.io/blog/2015/05/03/109</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/pic/duomo.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Пальмы в Европе, между iOS и Android]]></title>
+    <link href="http://soid.github.io/blog/2015/04/18/108/"/>
+    <updated>2015-04-18T15:22:00-07:00</updated>
+    <id>http://soid.github.io/blog/2015/04/18/108</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/pic/needlepalm.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Тестируем электромобиль, новый сайт подкаста, ваши комментарии]]></title>
+    <link href="http://soid.github.io/blog/2015/03/30/107/"/>
+    <updated>2015-03-30T07:06:00-07:00</updated>
+    <id>http://soid.github.io/blog/2015/03/30/107</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/pic/20159330.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Тунгуска, СЭР. Прощайте, города...]]></title>
+    <link href="http://soid.github.io/blog/2013/05/26/106/"/>
+    <updated>2013-05-26T13:06:00-07:00</updated>
+    <id>http://soid.github.io/blog/2013/05/26/106</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/dolcewelle/dolcewelle_files/koster2.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Тунгуска, СЭР]]></title>
+    <link href="http://soid.github.io/blog/2013/04/04/105/"/>
+    <updated>2013-04-04T13:14:00-07:00</updated>
+    <id>http://soid.github.io/blog/2013/04/04/105</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/dolcewelle/dolcewelle_files/zaza.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Лето 2012, 30 июня, 104-я годовщина Тунгусского Падения]]></title>
+    <link href="http://soid.github.io/blog/2012/06/29/104/"/>
+    <updated>2012-06-29T13:17:00-07:00</updated>
+    <id>http://soid.github.io/blog/2012/06/29/104</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/dolcewelle/dolcewelle_files/ava_ava_1176444690.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Сан-Ремо, Челентано, Аристон]]></title>
+    <link href="http://soid.github.io/blog/2012/02/16/103/"/>
+    <updated>2012-02-16T04:26:00-08:00</updated>
+    <id>http://soid.github.io/blog/2012/02/16/103</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/dolcewelle/dolcewelle_files/sanremo.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Встреча со спутником, Goldman Sachs за углом, привыкаем к маку]]></title>
+    <link href="http://soid.github.io/blog/2012/01/29/102/"/>
+    <updated>2012-01-29T22:12:00-08:00</updated>
+    <id>http://soid.github.io/blog/2012/01/29/102</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/dolcewelle/dolcewelle_files/%D0%BC.JPG"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Слушайте подкаст из Силиконовой Долины]]></title>
+    <link href="http://soid.github.io/blog/2011/04/15/101/"/>
+    <updated>2011-04-15T10:30:00-07:00</updated>
+    <id>http://soid.github.io/blog/2011/04/15/101</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/dolcewelle/dolcewelle_files/ava_ava_1176444690.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Огни большого Цюриха, Цельсий против Фаренгейта, Cолнце и деньги]]></title>
+    <link href="http://soid.github.io/blog/2010/12/23/100/"/>
+    <updated>2010-12-23T00:12:00-08:00</updated>
+    <id>http://soid.github.io/blog/2010/12/23/100</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/dolcewelle/dolcewelle_files/bahn.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Поезд Москва-Ницца, куда ушли тараканы, лазерная атака]]></title>
+    <link href="http://soid.github.io/blog/2010/10/24/99/"/>
+    <updated>2010-10-24T01:37:00-07:00</updated>
+    <id>http://soid.github.io/blog/2010/10/24/99</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/dolcewelle/dolcewelle_files/ava_ava_1176444690.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Летний снег San Bernardino, /tmp, где жить по-русски?]]></title>
+    <link href="http://soid.github.io/blog/2010/08/26/98/"/>
+    <updated>2010-08-26T23:21:00-07:00</updated>
+    <id>http://soid.github.io/blog/2010/08/26/98</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/dolcewelle/dolcewelle_files/3bd042789cf7e7c9e603b53dffbe6702.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Под землей, встреча с космическим кораблем, секреты фирмы]]></title>
+    <link href="http://soid.github.io/blog/2010/07/12/97/"/>
+    <updated>2010-07-12T13:17:00-07:00</updated>
+    <id>http://soid.github.io/blog/2010/07/12/97</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/dolcewelle/dolcewelle_files/229b69aebd2a17d8f1df9b3fd78e2423.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Silicon Valley Cross-posted: Пролетая над Атлантическим океаном]]></title>
+    <link href="http://soid.github.io/blog/2009/08/03/96/"/>
+    <updated>2009-08-03T13:44:00-07:00</updated>
+    <id>http://soid.github.io/blog/2009/08/03/96</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/dolcewelle/dolcewelle_files/1cd33a325f3f789fb436c25eb001b753.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Самообслуживание на паспортном контроле, снова в Европе]]></title>
+    <link href="http://soid.github.io/blog/2009/07/29/95/"/>
+    <updated>2009-07-29T04:19:00-07:00</updated>
+    <id>http://soid.github.io/blog/2009/07/29/95</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/dolcewelle/dolcewelle_files/2f66a89c47a57d6db04f7d45452cb781.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Троллейбусы как транспорт будущего, Obliko Morale, тайна Marriott]]></title>
+    <link href="http://soid.github.io/blog/2009/07/14/94/"/>
+    <updated>2009-07-14T01:39:00-07:00</updated>
+    <id>http://soid.github.io/blog/2009/07/14/94</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/dolcewelle/dolcewelle_files/8a6e0cd37ceaca3ecd636099c6d7200a.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Тунгусский метеорит и американские шаттлы, ламбрекены в Сибири]]></title>
+    <link href="http://soid.github.io/blog/2009/06/28/93/"/>
+    <updated>2009-06-28T22:21:00-07:00</updated>
+    <id>http://soid.github.io/blog/2009/06/28/93</id>
+    <content type="html"><![CDATA[<p><img src="http://www.dolcewelle.com/dolcewelle/dolcewelle_files/1abdadc6075aef8a8bb504d645755f95.jpg"></p>
 ]]></content>
   </entry>
   
