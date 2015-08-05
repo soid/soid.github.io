@@ -36,16 +36,15 @@
     <span class="pcast-currenttime pcast-time">00:00</span>
     <progress class="pcast-progress" value="0"></progress>
     <span class="pcast-duration pcast-time">00:00</span>
-    <button class="pcast-speed">1x</button>
-    <button class="pcast-mute"><i class="fa fa-volume-up"></i><span>Mute/Unmute</span></button>
+    <button class="pcast-speed">x1</button>
   </div>
   
   {% if index %}
-  <audio src="http://dev.insuma.de/~alex/podcasts/dolcewelle/{{ post.filename }}.mp3"></audio>
-  <a class="pcast-download" href="http://dev.insuma.de/~alex/podcasts/dolcewelle/{{ post.filename }}.mp3" download>Download MP3</a>
+  <audio src="{{ post.filename }}"></audio>
+  <a class="pcast-download" href="{{ post.filename }}" download>Скачать MP3</a>
   {% else %}
-  <audio src="http://dev.insuma.de/~alex/podcasts/dolcewelle/{{ page.filename }}.mp3"></audio>
-  <a class="pcast-download" href="http://dev.insuma.de/~alex/podcasts/dolcewelle/{{ page.filename }}.mp3" download>Download MP3</a>
+  <audio src="{{ page.filename }}"></audio>
+  <a class="pcast-download" href="{{ page.filename }}" download>Скачать MP3</a>
   {% endif %}
 </div>
 

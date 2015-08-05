@@ -43,7 +43,7 @@ body a:hover, body a:focus, body a:active {
 }
 .pcast-player progress {
   height: 13px;
-  width: calc(100% - 281px);
+  width: calc(100% - 249px);
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
