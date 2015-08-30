@@ -92,11 +92,13 @@ for item in tree.findall("item"):
     filename = pubDate.strftime("%Y-%m-%d-") \
                + translit(title) \
         .replace(" ", "_") \
-        .replace("/", "_")
+        .replace("/", "_") \
+        .replace("\"", "") \
+        .replace("?", "_")
 
-    print filename
-    print guid, "Title:", title, pubDate, description, \
-        summary.text, image, duration.text, podfile
+    print filename, title
+#    print guid, "Title:", title, pubDate, description, \
+#        summary.text, image, duration.text, podfile
 
 
     # # # # #
@@ -104,7 +106,7 @@ for item in tree.findall("item"):
     f = open("source/_posts/" + filename + ".markdown", "w")
     f.write("---\n")
     f.write("layout: post\n")
-    f.write("title: \"" + title.encode("UTF8") + "\"\n")
+    f.write("title: \"" + title.replace("\"", "\\\"").encode("UTF8") + "\"\n")
     f.write("date: " + str(pubDate) + "\n")
     f.write("comments: true\n")
     # f.write("categories:\n")
